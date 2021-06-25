@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?05c070ba090a827fdd7bd5f29be8e5b3") format("truetype"),
+url("./flaticon.woff?05c070ba090a827fdd7bd5f29be8e5b3") format("woff"),
+url("./flaticon.woff2?05c070ba090a827fdd7bd5f29be8e5b3") format("woff2"),
+url("./flaticon.eot?05c070ba090a827fdd7bd5f29be8e5b3#iefix") format("embedded-opentype"),
+url("./flaticon.svg?05c070ba090a827fdd7bd5f29be8e5b3#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-cybercrime:before {
+    content: "\f101";
+}
+.flaticon-settings-cog:before {
+    content: "\f102";
+}
+.flaticon-cyber-security:before {
+    content: "\f103";
+}
+.flaticon-threat:before {
+    content: "\f104";
+}
+.flaticon-cyber:before {
+    content: "\f105";
+}
+.flaticon-security:before {
+    content: "\f106";
+}
+.flaticon-cloud-password:before {
+    content: "\f107";
+}
+.flaticon-right-arrow:before {
+    content: "\f108";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f109";
+}
+.flaticon-previous:before {
+    content: "\f10a";
+}
+.flaticon-quote:before {
+    content: "\f10b";
+}
+.flaticon-test:before {
+    content: "\f10c";
+}
+.flaticon-database:before {
+    content: "\f10d";
+}
+.flaticon-security-1:before {
+    content: "\f10e";
+}
+.flaticon-secure:before {
+    content: "\f10f";
+}
+.flaticon-left-arrow:before {
+    content: "\f110";
+}
+.flaticon-star-1:before {
+    content: "\f111";
+}

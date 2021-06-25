@@ -1,0 +1,1677 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*NAV BAR*/
+.navbar-toggler-icon {
+    width: 25px;
+    height: 25px;
+}
+/*MENU START*/
+img.c_logo{
+    width: 75%;
+}
+ul.c_ul{
+ margin-top: 15px;
+}
+ /*MENU END*/
+
+/*HERO START*/
+section.hero{
+    height: 420px;
+ 
+}
+div.banner-content {
+      padding-top: 50px;
+    text-align: center;
+}
+span.top-title {
+    font-size: 16px;
+}
+h1.hero_h1 {
+      font-size: 23px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    line-height: 26px;
+}
+p.hero_p {
+    font-size: 16px;
+    line-height: 25px;
+}
+.btnc{
+    font-size: 14px;
+    margin: 0;
+    padding: 4px;  
+}
+div.custom_b {
+    margin-top: 20px;
+    width: 40%;
+    margin-left: 30%
+    }
+.video-btn {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    top: 20px;
+    left: -5px;
+}
+.video-btn i {
+    font-size: 15px;
+    top: 0px;
+    left: 1px;
+}
+div.banner-video {
+    margin-top: -38%;
+    margin-left: 156%;
+    }
+
+/*HERO END*/
+
+/*FEATURE AREA START*/
+.single-feature .title {
+    /* position: relative; */
+    /* margin-bottom: 28px; */
+    text-align: center;
+}
+
+
+.single-feature .title {
+    /* position: relative; */
+    margin-bottom: 28px;
+}
+
+.single-feature .title i {
+    position: inherit;
+    top: 0;
+    font-size: 45px;
+    line-height: 1;
+    color: #e21f36;
+    -webkit-transition: all ease 0.5s;
+    transition: all ease 0.5s;
+}
+
+.single-feature {
+    padding: 25px;
+    }
+div.sm_row{
+    justify-content: center;
+}
+
+.feature-area {
+    margin-top: -60px ;
+    /*margin-bottom: 20px*/ ;
+}
+.single-feature .title i {
+    /*top: 0;
+    font-size: 30px;*/
+}
+.single-feature .title h3.f_h3 {
+  padding-left: 0px;
+    font-size: 20px;
+}
+p.f_p {
+     font-size: 16px;
+    margin-bottom: 0px;
+    line-height: 1.5;
+    margin-top: -15px;
+    text-align: center;
+}
+div.pen_test{
+    /*margin-bottom: 96px;*/
+    margin-top: 85px !important;
+}
+div.c_Cyber{
+    margin-top: 0px !important;
+    margin-bottom: -5px;
+}
+div.c_security{
+     margin-bottom: 21px!important;
+    /*margin-top: 45px !important;*/
+}
+/*FEATURE AREA END*/
+
+/*OUR APPROACH AREA START*/
+section.our-approach-area{
+     padding-top: 25px;
+    padding-bottom: 25px;
+}
+div.approch_row{
+    justify-content: center;
+    /*margin-bottom: -10px;
+    margin-top: -5px;*/
+}
+.approach-img {
+   /*height: 85%;*/
+      padding-bottom: 75%;
+    background-position: top;
+}
+div.c_justify{
+    justify-content: center;
+}
+img.a_imag {
+   
+}
+.pb-70 {
+    padding-top: 35px;
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+}
+.single-approach {
+     /*padding: 20px;*/
+    margin-bottom: 15px;
+}
+.single-approach p {
+    font-size: 16px;
+}
+.single-approach h3 {
+    margin-bottom: 10px ;
+    font-size: 19px;
+}
+.approach-content .cc_h3 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+div.approch_col_row{
+    justify-content: center;
+}
+
+/*OUR APPROACH AREA END*/
+
+/*CHALLANGING AREA START*/
+div.row-chalange{
+    justify-content: center;
+}
+div.challange_center{
+    justify-content: center;
+}
+.get-in-touch-form .form-group {
+    margin-bottom: 20px;
+}
+.section-title {
+    margin-bottom: 25px;
+}
+.challenges-area {
+    padding-top: 35px;
+    margin-top: 0;
+    padding-bottom: 20px;
+}
+.section-title h2 {
+    font-size: 20px;
+    line-height: 28px;
+}
+.section-title span {
+     margin-bottom:8px;
+    font-size: 16px;
+}
+.single-challenges i {
+   font-size: 45px;
+    margin-bottom: 0px;
+    margin-top: -15px;
+}
+.single-challenges h3 {
+    margin-bottom: 10px;
+    font-size: 19px;
+}
+/*CHALLANGING AREA END*/
+
+/*SERVICE AREA STAR*/
+.single-services .services-img a::before {
+    top: -680%;
+    left: 0;
+    width: 100%;
+    height: 1781%;
+    }
+
+.single-services .services-content {
+    bottom: -136px;
+    }
+.single-services .services-content h3 {
+    margin-bottom: 7px;
+}
+div.ser_row{
+    justify-content: center;
+}
+section.services-area {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+div.service_row{
+    justify-content: center;
+}
+.single-services .services-content h3 a {
+    font-size: 21px;
+}
+a.custom_a {
+ font-size: 17px;
+}
+.single-services .services-content p {
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+/*SERVICE AREA END*/
+
+/*SOLUTIOON AREA START*/
+.solution-area {
+    padding-top: 40px;
+}
+.single-solution {
+    margin-bottom: 20px;
+    padding:15px;
+    }
+.single-solution h3 a {
+    font-size: 20px;
+}
+.solution-title {
+   margin-bottom: 20px;
+    margin-top: -5px;
+}
+.solution-img {
+       height: 0;
+    padding-bottom: 80%;
+    background-position: top;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+div.solution_row{
+    justify-content: center;
+    /*text-align: center;*/
+}
+.solution-title span {
+    font-size: 17px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.solution-title h2 {
+    font-size: 22px;
+    line-height: 1.3;
+}
+.single-solution span {
+    top: -5px;
+    right: 4px;
+    font-size: 55px;
+}
+/*SOLUTIOON ARES END*/
+
+/*GET IN TOUCH START*/
+div.col_center{
+    justify-content: center;
+}
+div.touch_row{
+    justify-content: center;
+}
+.get-in-touch-area {
+  margin-top: -15px;
+} 
+
+.ptb-100 {
+     padding-top: 35px;
+    padding-bottom: 25px;
+}
+
+div.button_touch {
+    margin-top: -5px;
+    width: 40%;
+    margin-left: 30%;
+}
+
+.get-in-touch-form .form-group .form-control {
+ height: 35px;
+    padding: 8px 9px 10px;
+}
+.get-in-touch-form .form-group label {
+    margin-bottom: 5px;
+}
+/*GET IN TOUCH END*/
+
+/*PROTECT AREA START*/
+div.protect_row1{
+    justify-content: center;
+    text-align: center;
+}
+div.protect_row2{
+  justify-content: center;
+}
+.protect-content .protect-title {
+     margin-top: 15px;
+    margin-bottom: 30px;
+}
+div.protect-img {
+    height: 0;
+    padding-bottom: 100%;
+    background-position: center;
+    margin-top: 20px;
+    margin-bottom: 15px; 
+}
+.protect-area {
+       padding-top: 25px;
+    /* margin-bottom: 89px;*/
+}
+.protect-content .protect-title span {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.protect-content .protect-title h2 {
+    font-size: 20px;
+    line-height: 28px;
+    margin-top: -7px;
+    margin-bottom: -12px;
+}
+.protect-area .col-lg-6 .row .col-lg-6:nth-child(3) .single-challenges {
+    margin-top: 0px;
+}
+.protect-area .col-lg-6 .row .col-lg-6:nth-child(2) .single-challenges {
+    margin-top: 0;
+}
+/*PROTECT AREA END*/
+
+/*SLIDER AREA START*/
+.slider {
+     width: 95%;
+    margin: 50px auto;
+}
+.slick-prev {
+    left: -10px;
+    top: 80%;
+}
+.slick-next {
+    right: -10px;
+    top: 80%;
+    }
+section.c_slidder{
+   /*margin-top: -10px;*/
+}
+div.c_pading{
+     margin-top: 0;
+}
+span.span_1{
+    font-size: 16px;
+}
+i.c_quote {
+    font-size: 30px;
+}
+p.p_1 {
+       font-size: 16px;
+    margin-bottom: 30px;
+}
+li.starli {
+    font-size: 18px;
+}
+ul.starMain {
+    margin-left: 35%;
+}
+h3.c_ceo {
+    font-size: 18px;
+    margin-bottom: 2px;
+}
+div.image_back {
+    /*  margin-top: -60px;
+    margin-bottom: -67px;*/
+}
+span.c_ceo1 {
+    font-size: 15px;
+}
+div.testimonials-item{
+    margin-top:10px;
+}
+
+/*SLIDER AREA END*/
+
+/*FOOTER AREA START*/
+div.fotter_row{
+    justify-content: center;
+}
+.single-footer-widget {
+    margin-bottom: 30px;
+    }
+.footer-area {
+    padding-top: 40px;
+    padding-bottom: 5px;
+    margin-top: 0px;
+ }
+.single-footer-widget h3 {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.single-footer-widget p {
+    margin-bottom: 20px; 
+    }
+.single-footer-widget .address li i {
+    left: 0;
+    top: 5px;
+    font-size: 22px;
+}
+div.img_box {
+    margin-bottom: 15px;
+}
+
+.logo {
+  width: 90%;
+}
+
+.copy-right-area p i {
+    position: relative;
+    top: 1px;
+    font-size: 14px;
+}
+.copy-right-area p a {
+    font-size: 14px;
+    }
+.copy-right-area p {
+       font-size: 15px;
+    text-align: center;
+    line-height: 26px;
+}
+.copy-right-area .footer-menu {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.copy-right-area .footer-menu li {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+/*FOOTER AREA END*/
+
+  }
+/*********************************************************************************************/
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+ 
+ /*MENU START*/
+ img.c_logo{
+    width: 85%;
+}
+ul.c_ul{
+ margin-top: 15px;
+}
+/*MENU END*/
+
+/*HERO START*/
+section.hero{
+    height: 350px;
+ 
+}
+div.banner-content {
+    padding-top: 45px;
+    text-align: center;
+}
+span.top-title {
+    font-size: 16px;
+}
+h1.hero_h1 {
+     font-size: 26px;
+    margin-bottom: 5px;
+    margin-top: 7px;
+    line-height: 32px;
+}
+p.hero_p {
+    font-size: 16px;
+    line-height: 25px;
+}
+.btnc{
+    font-size: 16px;
+    margin: 0;
+    padding: 5px;  
+}
+div.custom_b {
+    margin-top: 35px;
+    width: 25%;
+    margin-left: 5%;
+    }
+.video-btn {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    top: 3px;
+}
+.video-btn i {
+    font-size: 15px;
+    top: 0px;
+    left: 1px;
+}
+div.banner-video {
+    margin-top: -39%;
+    margin-left: 165%;
+    }
+/*HERO END*/
+
+/*FEATURE AREA START*/
+.single-feature {
+    padding: 15px;
+    }
+div.sm_row{
+    justify-content: center;
+}
+
+.feature-area {
+    margin-top: -95px ;
+    margin-bottom: 20px ;
+}
+.single-feature .title i {
+    top: 0;
+    font-size: 35px;
+}
+.single-feature .title h3.f_h3 {
+    padding-left: 45px;
+    padding-top: 5px;
+    font-size: 20px;
+}
+p.f_p {
+    font-size: 16px;
+    margin-bottom: 11px;
+    line-height: 1.5 ;
+}
+div.pen_test{
+    margin-bottom: 20px;
+}
+div.c_Cyber{
+     margin-top: 0px !important;
+    margin-bottom: -15px;
+}
+div.c_security{
+    margin-bottom: 20px!important;
+}
+/*FEATURE AREA END*/
+
+/*OUR APPROACH AREA START*/
+section.our-approach-area{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+div.approch_row{
+    justify-content: center;
+    margin-bottom: -10px;
+    margin-top: -5px;
+}
+.approach-img {
+   /*height: 85%;*/
+      padding-bottom: 40%;
+    background-position: top;
+}
+div.c_justify{
+    justify-content: center;
+}
+img.a_imag {
+   
+}
+.pb-70 {
+     padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+.single-approach {
+     /*padding: 20px;*/
+    margin-bottom: 15px;
+}
+.single-approach p {
+    font-size: 16px;
+}
+.single-approach h3 {
+    margin-bottom: 10px ;
+    font-size: 20px;
+}
+.approach-content .cc_h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 22px;
+    margin-top: 13px;
+}
+div.approch_col_row{
+    justify-content: center;
+}
+
+/*OUR APPROACH AREA END*/
+
+/*CHALLANGING AREA START*/
+div.row-chalange{
+    justify-content: center;
+}
+div.challange_center{
+    justify-content: center;
+}
+.section-title {
+    margin-bottom: 30px;
+}
+.challenges-area {
+    padding-top: 35px;
+    margin-top: 0;
+    padding-bottom: 15px;
+}
+.section-title h2 {
+      font-size: 22px;
+    line-height: 25px;
+}
+.section-title span {
+     margin-bottom: 5px;
+    font-size: 16px;
+}
+.single-challenges i {
+    font-size: 35px;
+    margin-bottom: 0px;
+    margin-top: -5px;
+}
+.single-challenges h3 {
+    margin-bottom: 10px;
+    font-size: 19px;
+}
+/*CHALLANGING AREA END*/
+
+/*SERVICE AREA STAR*/
+.single-services .services-content {
+    bottom: -130px;
+    }
+.single-services .services-content h3 {
+    margin-bottom: 7px;
+}
+div.ser_row{
+    justify-content: center;
+}
+section.services-area {
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+div.service_row{
+    justify-content: center;
+}
+.single-services .services-content h3 a {
+    font-size: 17px;
+}
+a.custom_a {
+ font-size: 17px;
+}
+.single-services .services-content p {
+    margin-bottom: 5px;
+}
+/*SERVICE AREA END*/
+
+/*SOLUTIOON AREA START*/
+.solution-area {
+    padding-top: 45px;
+}
+div.solution_row{
+    text-align:center;
+}
+.single-solution {
+    margin-bottom: 35px;
+    padding: 15px;
+    }
+.single-solution h3 a {
+    font-size: 20px;
+}
+.solution-title {
+   margin-bottom: 20px;
+    margin-top: -5px;
+}
+.solution-img {
+    height: 0;
+    padding-bottom: 60%;
+    background-position: top;
+}
+div.solution_row{
+    justify-content: center;
+    text-align: center;
+}
+.solution-title span {
+    font-size: 17px;
+    margin-bottom: 8px;
+}
+.single-solution span {
+    top: -10px;
+    right: 0px;
+    font-size: 70px;
+}
+.solution-title h2 {
+    font-size: 23px;
+    line-height: 1.3;
+}
+
+/*SOLUTIOON ARES END*/
+
+/*GET IN TOUCH START*/
+div.touch_row{
+    justify-content: center;
+}
+.get-in-touch-area {
+  margin-top: -15px;
+} 
+
+.ptb-100 {
+    padding-top: 45px;
+    padding-bottom: 25px;
+}
+
+div.button_touch {
+     margin-top: -5px;
+    width: 25%;
+    margin-left: 37%;
+}
+
+.get-in-touch-form .form-group .form-control {
+    height: 40px;
+ }
+.get-in-touch-form .form-group label {
+    margin-bottom: 5px;
+}
+/*GET IN TOUCH END*/
+
+/*PROTECT AREA START*/
+div.protect_row1{
+    justify-content: center;
+    text-align: center;
+}
+div.protect_row2{
+
+}
+div.protect-content{
+  padding-top: 25px;
+}
+.protect-content .protect-title {
+     margin-top: 15px;
+    margin-bottom: 30px;
+}
+div.protect-img {
+    height: 0;
+    padding-bottom: 60%;
+    background-position:center;
+}
+.protect-area {
+       padding-top: 30px;
+    /* margin-bottom: 89px;*/
+}
+.protect-content .protect-title span {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.protect-content .protect-title h2 {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+/*PROTECT AREA END*/
+
+/*SLIDER AREA START*/
+.slider {
+    width: 80%;
+    margin: 125px auto;
+}
+h3.c_ceo {
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+section.c_slidder{
+    margin-top: -10px;
+}
+div.c_pading{
+     margin-top: 5px;
+}
+span.span_1{
+    font-size: 16px;
+}
+i.c_quote {
+    font-size: 30px;
+}
+p.p_1 {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+li.starli {
+    font-size: 18px;
+}
+ul.starMain {
+    margin-left: 39%;
+}
+
+div.image_back {
+      margin-top: -60px;
+    margin-bottom: -67px;
+}
+span.c_ceo1 {
+    font-size: 15px;
+}
+div.testimonials-item{
+    margin-top:10px;
+}
+
+/*SLIDER AREA END*/
+
+/*FOOTER AREA START*/
+.footer-area {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    margin-top: 15px;
+ }
+.single-footer-widget h3 {
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    font-size: 23px;
+}
+.single-footer-widget p {
+    margin-bottom: 15px;
+    margin-top: 12px;
+    }
+.single-footer-widget .address li i {
+    left: 0;
+    top: 5px;
+    font-size: 22px;
+}
+div.img_box {
+   /* width: 135px;*/
+}
+
+.logo {
+  width: 90%;
+}
+.copy-right-area p i {
+    position: relative;
+    top: 1px;
+    font-size: 14px;
+}
+.copy-right-area p a {
+    font-size: 14px;
+    }
+.copy-right-area p {
+    font-size: 15px;
+}
+.copy-right-area .footer-menu {
+    text-align:left;
+}
+
+.copy-right-area .footer-menu li {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+/*FOOTER AREA END*/
+
+}
+
+/**********************************************************************************************/
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+ /*MENU START*/
+ul.c_ul{
+ margin-top: 15px;
+}
+a.c_a {
+    font-size: 17px;
+    padding: 8px;
+}
+ /*MENU END*/
+
+/*HERO START*/
+section.hero{
+  height: 450px;
+ 
+}
+div.banner-content {
+    padding-top: 60px;
+}
+span.top-title {
+    font-size: 16px;
+    margin-left: 20%;
+}
+h1.hero_h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    margin-top: 11px;
+    line-height: 44px;
+    text-align: center;
+}
+p.hero_p {
+     font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+}
+.btnc{
+    font-size: 16px;
+    margin: 0;
+    padding: 5px;  
+}
+div.custom_b {
+    margin-top: 25px;
+    width: 40%;
+    margin-left: 30%;
+}
+.video-btn {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    top: 3px;
+}
+.video-btn i {
+    font-size: 20px;
+    top: 0px;
+    left: 2px;
+}
+div.banner-video {
+    margin-top: 20%;
+    margin-left: -20%;
+    }
+
+/*HERO END*/
+
+/*FEATURE AREA START*/
+
+.feature-area {
+    margin-top: -95px ;
+    margin-bottom: 20px ;
+}
+.single-feature .title i {
+    top: 0;
+    font-size: 30px;
+}
+.single-feature .title h3.f_h3 {
+    padding-left: 38px;
+    padding-top: 5px;
+    font-size: 17px;
+}
+p.f_p {
+    font-size: 16px;
+    margin-bottom: 11px;
+    line-height: 1.5 ;
+}
+
+/*FEATURE AREA END*/
+
+/*OUR APPROACH AREA START*/
+div.approch_row{
+    justify-content: center;
+}
+.approach-img {
+   /*height: 85%;*/
+    padding-bottom: 50%;
+    background-position: top;
+}
+div.c_justify{
+    justify-content: center;
+}
+img.a_imag {
+   
+}
+.pb-70 {
+    padding-bottom: 0px;
+}
+.single-approach {
+    border-left: 2px solid #e21f36;
+    padding: 20px;
+    margin-bottom: 30px;
+    -webkit-transition: all ease 0.5s;
+    transition: all ease 0.5s;
+    -webkit-box-shadow: 0 0 20px 3px rgb(0 0 0 / 5%);
+    box-shadow: 0 0 20px 3px rgb(0 0 0 / 5%);
+    position: relative;
+}
+.single-approach p {
+    font-size: 16px;
+}
+.single-approach h3 {
+    margin-bottom: 10px ;
+    font-size: 20px;
+}
+.approach-content .cc_h3 {
+    text-align: center;
+    margin-bottom: 35px;
+    font-size: 28px;
+    margin-top: 10px;
+   
+}
+section.our-approach-area {
+    padding-bottom: 15px;
+}
+/*OUR APPROACH AREA END*/
+
+/*CHALLANGING AREA START*/
+div.row-chalange{
+    justify-content: center;
+}
+div.challange_center{
+    justify-content: center;
+}
+.section-title {
+    margin-bottom: 25px;
+}
+.challenges-area {
+    padding-top: 45px;
+    padding-bottom: 25px;
+}
+.section-title h2 {
+    font-size: 30px;
+    line-height: 36px;
+    padding-bottom: 20px;
+}
+.section-title span {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.single-challenges i {
+        font-size: 45px;
+    margin-bottom: 0px;
+    margin-top: -10px;
+}
+
+.single-challenges h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+/*CHALLANGING AREA END*/
+
+/*SERVICE AREA STAR*/
+div.ser_row{
+    justify-content: center;
+}
+section.services-area {
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+div.service_row{
+    justify-content: center;
+}
+.single-services .services-content h3 a {
+    font-size: 23px;
+}
+a.custom_a {
+ font-size: 17px;
+}
+
+element.style {
+}
+.single-services:hover .services-content {
+    bottom: 0;
+}
+.single-services .services-content {
+    bottom: -120px;
+}
+
+/*SERVICE AREA END*/
+
+/*SOLUTIOON AREA START*/
+.solution-title {
+    margin-bottom: 30px;
+}
+.solution-area {
+    padding-top: 50px;
+}
+.solution-content {
+   /* max-width: 600px;
+    margin-left: auto;*/
+}
+.solution-img {
+    height: 0;
+    padding-bottom: 70%;
+    background-position: top;
+}
+div.solution_row{
+    justify-content: center;
+    text-align: center;
+}
+.solution-title span {
+    font-size: 17px;
+    margin-bottom: 8px;
+}
+
+.solution-title h2 {
+    font-size: 25px;
+    line-height: 1.3;
+}
+
+/*SOLUTIOON ARES END*/
+
+/*GET IN TOUCH START*/
+div.touch_row{
+    justify-content: center;
+}
+.get-in-touch-area {
+    margin-top: 25px;
+} 
+
+.ptb-100 {
+     padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+div.button_touch {
+    margin-top: 5px;
+    width: 25%;
+    margin-left: 38%;
+}
+
+
+.get-in-touch-form .form-group .form-control {
+    height: 40px;
+ }
+
+/*GET IN TOUCH END*/
+
+/*PROTECT AREA START*/
+div.protect_row1{
+    justify-content: center;
+    text-align: center;
+}
+div.protect_row2{
+
+}
+.protect-content{
+    padding-top: 25px;
+    }
+.protect-content .protect-title {
+    margin-top: 22px;
+}
+div.protect-img {
+    height: 0;
+    padding-bottom: 70%;
+    background-position:center;
+}
+.protect-area {
+       padding-top: 55px;
+    /* margin-bottom: 89px;*/
+}
+.protect-content .protect-title span {
+    margin-bottom: 5px;
+    font-size: 17px;
+}
+.protect-content .protect-title h2 {
+     font-size: 25px;
+    line-height: 32px;
+}
+
+/*PROTECT AREA END*/
+
+
+/*SLIDER AREA START*/
+.slider {
+    width: 75%;
+    margin: 100px auto;
+}
+
+section.c_slidder{
+   
+}
+div.c_pading{
+     margin-top: 0;
+}
+span.span_1{
+    font-size: 16px;
+}
+i.c_quote {
+    font-size: 35px;
+}
+p.p_1 {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+li.starli {
+    font-size: 18px;
+}
+ul.starMain {
+    margin-left: 42%;
+}
+h3.c_ceo {
+    font-size: 20px;
+}
+div.image_back {
+    margin-top: -40px;
+    margin-bottom: 0px;
+}
+span.c_ceo1 {
+    font-size: 15px;
+}
+div.testimonials-item{
+    margin-top:20px;
+}
+
+/*SLIDER AREA END*/
+
+/*FOOTER AREA START*/
+.footer-area {
+    padding-top: 25px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+ }
+.single-footer-widget h3 {
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+div.img_box {
+   /* width: 135px;*/
+}
+
+.logo {
+    /*width: 93%;*/
+}
+
+.copy-right-area p i {
+    position: relative;
+    top: 1px;
+    font-size: 14px;
+}
+.copy-right-area p a {
+    font-size: 14px;
+    }
+.copy-right-area p {
+    font-size: 15px;
+}
+.copy-right-area .footer-menu {
+    text-align:left;
+}
+
+.copy-right-area .footer-menu li {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+/*FOOTER AREA END*/
+
+}
+
+/**************************************************************************************************/
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ 
+/*MENU START*/
+a.c_a {
+    font-size: 17px;
+    padding: 8px;
+}
+form.c-form{
+    width: 30%;
+    height: 20px;
+    margin-top: -20px;
+}
+button.c_button{
+    padding: 5px 10px;
+    height: 36px;
+    margin-top: 1px;
+    width: 30%;
+}
+ /*MENU END*/
+
+/*HERO START*/
+section.hero{
+  height: 530px;
+ 
+}
+div.banner-content {
+    padding-top: 75px;
+}
+span.top-title {
+    font-size: 16px;
+}
+h1.hero_h1 {
+    font-size: 48px ;
+    margin-bottom: 22px ;
+    margin-top: 10px;
+    line-height: 53px;
+}
+p.hero_p {
+    font-size: 18px ;
+    line-height: 25px;
+}
+.btnc{
+    font-size: 15px;
+   height: 40px;
+}
+.video-btn {
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+    top: 3px;
+}
+.video-btn i {
+    font-size: 20px;
+    top: 0px;
+    left: 3px;
+}
+div.banner-video {
+    margin-top: 50%;
+    margin-left: -20%;
+    }
+/*HERO END*/
+
+/*FEATURE AREA START*/
+.feature-area.feature-area-two .single-feature {
+    margin-top: 10px;
+    }
+
+.feature-area {
+    margin-top: -95px ;
+    margin-bottom: 20px ;
+}
+.single-feature .title i {
+    top: 0;
+    font-size: 40px;
+}
+.single-feature .title h3.f_h3 {
+    padding-left: 50px;
+    padding-top: 8px;
+    font-size: 18px;
+}
+p.f_p {
+    font-size: 16px;
+    margin-bottom: 11px;
+    line-height: 1.5 ;
+}
+
+/*FEATURE AREA END*/
+
+/*OUR APPROACH AREA START*/
+.approach-img {
+  
+}
+section.our-approach-area {
+    padding-bottom: 15px;
+}
+img.a_imag {
+   
+}
+.pb-70 {
+    padding-bottom: 22px;
+}
+
+.single-approach p {
+    font-size: 15px;
+}
+.single-approach h3 {
+    margin-bottom: 10px ;
+    font-size: 17px;
+}
+.approach-content .cc_h3 {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+
+/*OUR APPROACH AREA END*/
+
+/*CHALLANGING AREA START*/
+
+.challenges-area {
+    padding-top: 85px ;
+    margin-top: 20px;
+}
+.section-title h2 {
+    font-size: 35px ;
+    line-height: 42px;
+}
+.section-title span {
+    margin-bottom: 8px;
+    font-size: 17px;
+}
+.single-challenges i {
+        font-size: 50px;
+    margin-bottom: 0px;
+    margin-top: -10px;
+}
+
+.single-challenges h3 {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+/*CHALLANGING AREA END*/
+
+
+/*SERVICE AREA STAR*/
+section.services-area {
+    padding-top: 65px;
+    padding-bottom: 35px;
+}
+
+.single-services .services-content h3 a {
+    font-size: 19px;
+}
+a.custom_a {
+ font-size: 17px;
+}
+.single-services .services-content {
+    bottom: -135px;
+}
+
+/*SERVICE AREA END*/
+
+/*SOLUTIOON ARES START*/
+.solution-title span {
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.single-solution span {
+    top: -5px;
+    right: 0px;
+    font-size: 65px;
+    }
+.solution-img {
+        background-position: inherit;
+}
+.solution-title h2 {
+    font-size: 30px;
+    line-height: 1.2;
+}
+
+/*SOLUTIOON ARES END*/
+
+/*GET IN TOUCH START*/
+.get-in-touch-area {
+    margin-top: 25px;
+} 
+
+.ptb-100 {
+    padding-top: 70px;
+    padding-bottom: 45px;
+}
+
+/*GET IN TOUCH END*/
+
+/*PROTECT AREA START*/
+.protect-area {
+    padding-top: 80px;
+    margin-bottom: 0px;
+}
+.protect-content .protect-title span {
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+.protect-content .protect-title h2 {
+    font-size: 30px;
+    line-height: 32px;
+}
+
+
+/*PROTECT AREA END*/
+
+/*SLIDER AREA START*/
+.slider {
+    width: 65%;
+    margin: 100px auto;
+}
+
+section.c_slidder{
+   
+}
+div.c_pading{
+     margin-top: 0;
+}
+span.span_1{
+    font-size: 16px;
+}
+i.c_quote {
+    font-size: 35px;
+}
+p.p_1 {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+li.starli {
+    font-size: 18px;
+}
+ul.starMain {
+    margin-left: 42%;
+}
+h3.c_ceo {
+    font-size: 20px;
+}
+div.image_back {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.slick-dotted.slick-slider {
+    margin-bottom: 55px;
+}
+span.c_ceo1 {
+    font-size: 15px;
+}
+div.testimonials-item{
+    margin-top:20px;
+}
+
+/*SLIDER AREA END*/
+
+/*FOOTER AREA START*/
+.footer-area {
+    padding-top: 50px;
+    padding-bottom: 45px;
+    margin-top: 20px;
+ }
+.single-footer-widget h3 {
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+div.img_box {
+    width: 135px;
+}
+
+.logo {
+    /*width: 93%;*/
+}
+/*FOOTER end*/
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+ /*HERO START*/
+
+} 
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*HERO START*/
+/*HERO START*/
+section.hero{
+  height: 655px;
+}
+div.banner-content {
+    padding-top: 140px;
+}
+span.top-title {
+    font-size: 18px;
+}
+
+h1.hero_h1{
+    font-size: 65px;
+    margin-bottom: 35px;
+    margin-top: 20px;
+}
+p.hero_p{
+    font-size: 20px;
+    line-height: 30px;
+   }
+
+/*HERO END*/
+
+/*FEATURE AREA START*/
+.feature-area.feature-area-two {
+   /* margin-top: -70px;*/
+}
+
+.single-feature .title h3 {
+    padding-left: 65px;
+    padding-top: 20px ;
+    font-size: 30px ;
+}
+
+.single-feature .title i {
+    top: 10px;
+    font-size: 50px;
+    line-height: 1;
+   
+}
+
+p.f_p{
+     font-size: 20px;
+    margin-bottom: 15px;
+}
+
+/*FEATURE AREA END*/
+
+/*OUR APPROACH AREA START*/
+
+.section-title h2 {
+    font-size: 40px;
+    margin-bottom: 0px;  
+}
+
+.section-title span {
+       font-size: 18px;
+}
+
+.approach-content .cc_h3 {
+    font-size: 35px;
+    margin-bottom: 80px;
+}
+
+.single-approach h3 {
+    margin-bottom: 25px;
+    font-size: 26px;
+
+}
+
+.single-approach p {
+    font-size: 18px;
+}
+
+/*OUR APPROACH AREA END*/
+
+/*CHALLANGING AREA START*/
+.single-challenges h3 {
+    margin-bottom: 15px;
+    font-size: 22px;
+}
+
+.single-challenges p {
+    font-size: 17px;
+}
+.challenges-area {
+    padding-top: 120px;
+    padding-bottom: 45px;
+    margin-top: 55px;
+}
+/*CHALLANGING AREA END*/
+
+/*PROTECT AREA START*/
+.protect-content .protect-title h2 {
+    font-size: 40px;
+    line-height: 1.2;
+}
+.protect-content .protect-title span {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.single-challenges i {
+    font-size: 60px;
+}
+
+.single-services .services-content {
+    bottom: -125px;
+}
+/*PROTECT AREA END*/
+
+ul.starMain {
+    margin-left: 42%;
+}
+/*FOTTER START*/
+div.img_box {
+    width: 160px;
+    height: auto;
+}
+/*FOTTER END*/
+
+}
